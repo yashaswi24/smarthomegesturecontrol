@@ -1,4 +1,5 @@
-SmartHome Gesture Control Application PART-2
+SmartHome Gesture Control Application PART-2:
+
 A python application classifying Smart Home gestures using CNN model.
 
 
